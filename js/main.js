@@ -258,7 +258,7 @@ ${bookingData.message}`;
   }
   
   // Open WhatsApp with the message
-  const whatsappUrl = `https://api.whatsapp.com/send?phone=6285792164690&text=${encodeURIComponent(whatsappMessage)}`;
+  const whatsappUrl = `https://api.whatsapp.com/send?phone=628123541922&text=${encodeURIComponent(whatsappMessage)}`;
   window.open(whatsappUrl, '_blank');
   
   // Hide popup after sending
